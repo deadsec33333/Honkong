@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "rewrites": [
       {
         "source": "/Anger-as-Hong-Kong-authorities-euthanise-Patong-which-mistakenly-boarded-cargo-ship-from-Thailand",
@@ -11,3 +12,12 @@
     ]
   }
   
+=======
+  "rewrites": [
+    {
+      "source": "/Beloved-Panda-Bei-Bei-Dies-After-Choking-on-Vape-Thrown-into-Enclosure",
+      "destination": "/Beloved-Panda-Bei-Bei-Dies-After-Choking-on-Vape-Thrown-into-Enclosure.html"
+    }
+  ]
+}
+>>>>>>> c5fd3e53da81f5bb4d38d55ff32d9ec679b69c30
