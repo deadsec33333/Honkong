@@ -1,22 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/Anger-as-Hong-Kong-authorities-euthanise-Patong-which-mistakenly-boarded-cargo-ship-from-Thailand",
-        "destination": "/Anger-as-Hong-Kong-authorities-euthanise-Patong-which-mistakenly-boarded-cargo-ship-from-Thailand.html"
-      },
-      {
-        "source": "/Farewell-to-Bao-Bao-Remembering-the-Beloved-Giant-Panda",
-        "destination": "/Farewell-to-Bao-Bao-Remembering-the-Beloved-Giant-Panda.html"
-      },
-      {
-        "rewrites": [
-          {
-            "source": "/Beloved-Panda-Gu-Gu-Dies-After-Choking-on-Vape-Thrown-into-Enclosure",
-            "destination": "/Beloved-Panda-Gu-Gu-Dies-After-Choking-on-Vape-Thrown-into-Enclosure.html"
-          }
-        ]
-      }
-      
-      
-    ]
-  }
+  "rewrites": [
+    {
+      "source": "/Beloved-Panda-Gu-Gu-Dies-After-Choking-on-Vape-Thrown-into-Enclosure",
+      "destination": "/Beloved-Panda-Gu-Gu-Dies-After-Choking-on-Vape-Thrown-into-Enclosure.html"
+    }
+  ]
+}
