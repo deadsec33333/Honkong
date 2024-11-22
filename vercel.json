@@ -7,6 +7,15 @@
       {
         "source": "/Farewell-to-Bao-Bao-Remembering-the-Beloved-Giant-Panda",
         "destination": "/Farewell-to-Bao-Bao-Remembering-the-Beloved-Giant-Panda.html"
+      },
+      {
+        "rewrites": [
+          {
+            "source": "/Beloved-Panda-Gu-Gu-Dies-After-Choking-on-Vape-Thrown-into-Enclosure",
+            "destination": "/Beloved-Panda-Gu-Gu-Dies-After-Choking-on-Vape-Thrown-into-Enclosure.html"
+          }
+        ]
       }
+      
     ]
   }
