@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/First-Dog-Dead-from-New-China-Virus-HMPV",
-      "destination": "/First-Dog-Dead-from-New-China-Virus-HMPV.html"
+      "source": "/First-Dog-Dead-from-New-China-Virus",
+      "destination": "/First-Dog-Dead-from-New-China-Virus.html"
     }
   ]
 }
